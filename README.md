@@ -1,8 +1,8 @@
-## Aṕlicacion del CLima - Curso Node 
+## Aṕlicacion del Clima - Curso Node 
 
 > Ejercicio 05
 
-Recurden ejecutar ```npm instal````para las librerias
+Recurden ejecutar ```npm instal``` para las librerias
 
 ### Ejemplo
 ```
